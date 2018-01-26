@@ -4,7 +4,7 @@ BurpSuite
 
 > 新增最新版burp一键在linux或win下启动的jar文件，[点击查看](https://github.com/iusky/BurpSuite-MacOS/releases/tag/v.1.7.31)
 
-# 编译BurpSuite破解版为Mac Applocation
+# 编译最新版Burp为Mac Applocation
 
 ## 一、系统环境
 ### java
@@ -32,7 +32,7 @@ brew install ant
 首先从github上下载代码：
 
 ```
-git clone https://github.com/iusky/BurpSuite-MacOS
+git clone https://github.com/iusky/Biubiubiu
 ```
 
 然后进入该目录,直接执行
@@ -54,7 +54,7 @@ Burp Suite Professional.app
 ## 三、更改了哪些参数？
 
 1、更改了build.xml文件里面的mainclassname,将其改为了burploader的启动函数
-2、将burp破解版的程序拷贝到了当前目录
+2、将burp的程序拷贝到了当前目录
 3、更改了icon图标
 
 ## 四、新版本激活步骤
