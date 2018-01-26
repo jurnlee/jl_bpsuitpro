@@ -1,6 +1,8 @@
-BurpSuite-MacOS
+BurpSuite
 ===============
 ![](http://mweb.03sec.com/2018-01-26-15169456970441.jpg)
+
+> 新增最新版burp一键在linux或win下启动的jar文件，[点击查看](https://github.com/iusky/BurpSuite-MacOS/releases/tag/v.1.7.31)
 
 # 编译BurpSuite破解版为Mac Applocation
 
@@ -78,5 +80,7 @@ Burp Suite Professional.app
 7. 点击下一步，激活成功
 ![](http://mweb.03sec.com/2018-01-26-15169453416766.jpg)
 ![](http://mweb.03sec.com/2018-01-26-15169453941798.jpg)
+
+
 
 
